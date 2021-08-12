@@ -1,4 +1,5 @@
 - Project Genome Assembly
-- Contact info: Emiliano Sotelo - jemilianosf@gmail.com
+- Maintainer: Emiliano Sotelo
+- Contact info: jemilianosf@gmail.com
 - Started on 12 Aug 2021
 
